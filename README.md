@@ -1,4 +1,4 @@
-# 👋 Halo, Saya [nurulsherenselamanya]!
+# 👋 Halo, Saya Nurul hikmah dan Maritza shren awaliyah
 Saya adalah siswa SMK Syafa’atul Ummah jurusan **Rekayasa Perangkat Lunak (RPL)**.  
 Saya suka belajar tentang pemrograman web, aplikasi, dan teknologi masa depan.
 
